@@ -1,0 +1,17 @@
+{
+	id: "7f16e9c2-b6c6-3532-8e4e-1c3a2d3e5908"
+	type: "player"
+	player_name: "caramelo"
+	ranks: {
+		7f16e9c2-b6c6-3532-8e4e-1c3a2d3e5908: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "caramelo"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59A4FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
